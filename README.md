@@ -1,4 +1,4 @@
-# Modal Notebook Tutorials
+# Modal Notebooks
 
 Welcome to my collection of Jupyter Notebooks from my tutorial videos.
 
@@ -11,7 +11,7 @@ You can download the notebooks in a few ways:
 If you have Git installed, you can clone the entire repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/modal-notebook-tutorials.git
+git clone https://github.com/airesearch-official/modal-notebook.git
 ```
 
 ### 2. Download a ZIP File
