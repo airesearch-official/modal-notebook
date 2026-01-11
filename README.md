@@ -6,6 +6,7 @@ Welcome to my collection of Jupyter Notebooks from my tutorial videos.
 
 - [LongCat_Video.ipynb](https://github.com/airesearch-official/modal-notebook/blob/master/notebooks/LongCat_Video.ipynb)
 - [Veo3_Realtime.ipynb](https://github.com/airesearch-official/modal-notebook/blob/master/notebooks/Veo3_Realtime.ipynb)
+- [ltx2-modal.ipynb](https://github.com/airesearch-official/modal-notebook/blob/master/notebooks/ltx2-modal.ipynb)
 
 ## How to Download
 
